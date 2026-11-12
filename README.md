@@ -65,13 +65,6 @@
 | [**ServeRest API tests**](https://github.com/JeffJna/serverest-tests-api) | REST API test suite with schema validation and business rules | Cypress · JSON Schema |
 | [**ServeRest E2E tests**](https://github.com/JeffJna/serverest-tests-front) | BDD end-to-end suite with Page Objects | Cypress · Cucumber |
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JeffJna&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffJna&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
-
 ---
 
 <p align="center"><i>New projects land here from time to time — feel free to look around ⭐</i></p>
