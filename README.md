@@ -58,9 +58,6 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**macPad**](https://github.com/JeffJna/macPad) | Native macOS editor reusing the Notepad++ editing core (Scintilla/Lexilla) with a new AppKit front end | Objective-C++ · AppKit |
-| [**Aurum Calc**](https://github.com/JeffJna/aurum-calc) · [live](https://jeffjna.github.io/aurum-calc/) | Cost calculator for gold jewelry manufacturing, with CSV export, shareable links and offline support | JavaScript · PWA |
-| [**ServeRest API tests**](https://github.com/JeffJna/serverest-tests-api) | REST API test suite with schema validation and business rules | Cypress · JSON Schema |
-| [**ServeRest E2E tests**](https://github.com/JeffJna/serverest-tests-front) | BDD end-to-end suite with Page Objects | Cypress · Cucumber |
 
 ---
 
