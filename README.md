@@ -59,9 +59,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**macPad**](https://github.com/JeffJna/macPad) | Native macOS editor reusing the Notepad++ editing core (Scintilla/Lexilla) with a new AppKit front end | Objective-C++ · AppKit |
-| [**Maná Diário**](https://github.com/JeffJna/mana-diario) | A verse and a reflection for every day of the year — static site with content validation and tests | Next.js · TypeScript |
 | [**Aurum Calc**](https://github.com/JeffJna/aurum-calc) · [live](https://jeffjna.github.io/aurum-calc/) | Cost calculator for gold jewelry manufacturing, with CSV export, shareable links and offline support | JavaScript · PWA |
-| [**Ficha Jeff**](https://github.com/JeffJna/ficha-jeff) · [live](https://jeffjna.github.io/ficha-jeff/) | Workout tracker PWA: daily sessions, loads, rest timers, volume and history stored locally | JavaScript · PWA |
 | [**ServeRest API tests**](https://github.com/JeffJna/serverest-tests-api) | REST API test suite with schema validation and business rules | Cypress · JSON Schema |
 | [**ServeRest E2E tests**](https://github.com/JeffJna/serverest-tests-front) | BDD end-to-end suite with Page Objects | Cypress · Cucumber |
 
